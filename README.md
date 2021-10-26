@@ -9,7 +9,7 @@ My Email is khalednba1@gmail.com
   * HTML
   * CSS
 
-The project link is https://github.com/khaledaref/football-project.git
+The project link is https://football-log.netlify.app
 
 
 
