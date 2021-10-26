@@ -10,7 +10,11 @@ My Email is khalednba1@gmail.com
   * CSS
  
 To see the project [Click here](https://khaledaref.github.io/football-project/)
-![](file:///C:/Users/hp/Desktop/football-image.png)
+
+### Image for the project :rose:
+
+<img src ="img/football-image.png" width="250px" heighet="250px">
+
 
 
 
