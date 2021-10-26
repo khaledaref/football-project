@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.section{
+    width: 100%;
+    height: 100%;
+    background: url('../img/K5vewOJIzya1FHU05wOzJoCDF+yfjuElsBFMiIjxzkbXhU92+vZsNYyWLeKjWmh+JQeP6onq7o7gFHh+iV72rbB9NUMjoHPPCxN_c9agmArZVnQcA0qlQRqsihQ0dPAW+3lvC5h7AB2l+VTUDIGMAMlfk4QUEBDHXuTXZXkimQIN6jrrwMIJpPEGqFbVqFPJTtTOQozR.jpg')  no-repeat;
+    background-size: cover;
+}
+.overlay{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+.div1{
+    width: 25%;
+    min-height: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.football{
+    width: 100%;
+    height: 150px;
+    position: relative;
+    
+}
+span{
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+}
+
+.inputt{
+    width: 100%;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+input,button{
+    width: 70%;
+    height: 35px;
+    border: none;
+    outline: none;
+    
+   
+}
+input{
+    background: none;
+    color: white;
+    border-bottom: 2px solid white;
+}
+input::placeholder{
+text-transform: capitalize;
+color: white;
+}
+button{
+    font-weight: bold;
+    background-color: #23c08b;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 2px;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.8;
+}
+.word{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
