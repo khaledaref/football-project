@@ -1,6 +1,6 @@
 ## Khaled Al Nabaheen..
 
-Student At KYTC Cologe...
+Student At KYTC College...
 
 My Email is khalednba1@gmail.com
 
