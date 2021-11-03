@@ -13,7 +13,8 @@ To see the project [Click here](https://khaledaref.github.io/football-project/)
 
 ### Image for the project :rose:
 
-<img src ="img/football-image.png" width="250px" heighet="250px">
+<img src ="img/smartmockups_kvjqa5ng.jpg" width="270px" heighet="270px">
+
 
 
 
